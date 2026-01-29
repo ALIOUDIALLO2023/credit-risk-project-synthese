@@ -40,8 +40,8 @@ de séries temporelles (ARIMA) et d’apprentissage automatique.
 - Présentation orale 
 
 ## Auteur
-Mohamed Aliou Diallo
-Doumenyo Ablavi Emefa
+- Mohamed Aliou Diallo
+- Doumenyo Ablavi Emefa
 
 ## Licence
 
